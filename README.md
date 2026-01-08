@@ -33,7 +33,7 @@ It allows users to **register, log in, and manage car rental data** in a simple 
 
 📂 Project Structure
 📦 car-rental-system
-
+src -> JS, CSS, HTMl
 ## 📖 Author
 ```bash
    https://github.com/JG-silv
