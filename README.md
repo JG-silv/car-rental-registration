@@ -2,7 +2,7 @@
 
 This project is a **Car Rental Registration System** built with **HTML, CSS, and JavaScript**.  
 It allows users to **register, log in, and manage car rental data** in a simple and practical way.  
-
+.
 ---
 
 ## 📌 Features  
